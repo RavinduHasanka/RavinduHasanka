@@ -43,25 +43,18 @@
   
 </p>
 
-<!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/RavinduHasanka)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduHasanka&layout=compact&theme=react)](https://github.com/RavinduHasanka)
--->
-
 <br />
 
-## 🚀 Frameworks...
+<!--## 🚀 Frameworks...
 
 <p align="center">
   
- <!--  <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
-  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  -->
+ <!-- <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">-->
+ <!-- <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">-->    
+ <!-- <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">-->
+ <!-- <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">-->
+
 </p>
 
 ## 🌀 Languages...
@@ -71,9 +64,7 @@
       <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px"> <!--JAVA-->
       <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px"> <!--HTML-->
       <img src="assets\badges\Languages\css3.svg" alt="css3" style="vertical-align:top; margin:4px"> <!--CSS-->
-      <img src="assets\badges\Languages\C.svg" alt="C" style="vertical-align:top; margin:4px"> <!--C-->
       <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px"> <!--C#-->  
-      <img src="assets\badges\Languages\C++.svg" alt="C++" style="vertical-align:top; margin:4px"> <!--C++-->
       <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> <!--PHP-->
       <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px"> <!--PYTHON-->
 
@@ -83,24 +74,16 @@
 
 <p align="center">
   
-    <img src="assets\badges\Tools\adobe-premiere.svg" alt="premiere pro" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Tools\adobe-photoshop.svg" alt="photoshop" style="vertical-align:top; margin:4px"> 
-    <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> 
-    <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">  
-    <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Tools\figma.svg" alt="figma" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Tools\adobe-xd.svg" alt="adobexd" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Tools\dreamweaver.svg" alt="dreamweaver" style="vertical-align:top; margin:4px">
-
-
-   <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
-  <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-
+   <img src="assets\badges\Tools\premierepro.png" width="200" height="50" alt="premierepro" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\photoshop.png" width="200" height="50" alt="photoshop" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\dreamweaver.png" width="200" height="50" alt="dreamweaver" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\Intellij.png" width="200" height="50" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\visualstudio.png" width="200" height="50" alt="visualstudio" style="vertical-align:top; margin:4px"> 
+   <img src="assets\badges\Tools\eclipse.png" width="200" height="50" alt="eclipse" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\adobexd.png" width="200" height="50" alt="adobexd" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\androidstudio.png" width="200" height="50" alt="androidstudio" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\figma.png" width="200" height="50" alt="figma" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\postman.png" width="200" height="50" alt="postman" style="vertical-align:top; margin:4px">
 </p>
 
 ---
