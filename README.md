@@ -10,18 +10,15 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/ravindu-hasanka-b630a1210/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-    <!--<a href="https://medium.com/@KavinduLiyanage"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;-->
     <a href="https://www.facebook.com/ravindu.hasanka.58/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/ravindu_hasanka.97/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-    <!--<a href="https://join.skype.com/invite/Y3xBm8gk1fyV"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;-->
-
  </p>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Intern Full Stack Engineer at Elzian Agro | 🎓 Information Technology Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
-<img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
+<img align="right" height="300px" width="400px" alt="GIF" src="assets/images/giphy.gif" />
 
 
 ## 😎 Talking about Personal Stuffs:
@@ -86,15 +83,24 @@
 
 <p align="center">
   
-    <img src="assets\badges\Tools\visualstudio_code.svg" alt="premiere pro" style="vertical-align:top; margin:4px"> <!-- adobe premiere pro -->
-    <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="photoshop" style="vertical-align:top; margin:4px"> <!-- photoshop -->
-    <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> <!-- eclipse -->
-    <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px"> <!-- visualstudio -->    
-    <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px"> <!-- android_studio --> 
-    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px"> <!-- jetbrains_intellij -->
-    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="figma" style="vertical-align:top; margin:4px"> <!-- figma -->
-    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="adobeXD" style="vertical-align:top; margin:4px"> <!-- adobeXD -->
-    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="dreamweaver" style="vertical-align:top; margin:4px"> <!-- dreamweaver -->
+    <img src="assets\badges\Tools\adobe-premiere.svg" alt="premiere pro" style="vertical-align:top; margin:4px">
+    <img src="assets\badges\Tools\adobe-photoshop.svg" alt="photoshop" style="vertical-align:top; margin:4px"> 
+    <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> 
+    <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">  
+    <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+    <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+    <img src="assets\badges\Tools\figma.svg" alt="figma" style="vertical-align:top; margin:4px">
+    <img src="assets\badges\Tools\adobe-xd.svg" alt="adobexd" style="vertical-align:top; margin:4px">
+    <img src="assets\badges\Tools\dreamweaver.svg" alt="dreamweaver" style="vertical-align:top; margin:4px">
+
+
+   <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
+  <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+
 </p>
 
 ---
@@ -110,11 +116,4 @@ or <a href="mailto:it19156798@my.sliit.lk.com"><b>email</b></a> me.
 
 </div>
 
- <!--
-### - Blogs 🌱
-
-<p align="center">
-  
-</p>
--->
 
