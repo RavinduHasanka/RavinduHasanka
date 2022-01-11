@@ -79,11 +79,12 @@
    <img src="assets\badges\Tools\dreamweaver.png" width="200" height="50" alt="dreamweaver" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\Intellij.png" width="200" height="50" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\visualstudio.png" width="200" height="50" alt="visualstudio" style="vertical-align:top; margin:4px"> 
-   <img src="assets\badges\Tools\eclipse.png" width="200" height="50" alt="eclipse" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\visualcode.png" width="200" height="50" alt="postman" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\adobexd.png" width="200" height="50" alt="adobexd" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\androidstudio.png" width="200" height="50" alt="androidstudio" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\figma.png" width="200" height="50" alt="figma" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\postman.png" width="200" height="50" alt="postman" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\eclipse.png" width="200" height="50" alt="eclipse" style="vertical-align:top; margin:4px">
 </p>
 
 ---
