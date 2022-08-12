@@ -26,7 +26,6 @@
 - ### 🌱 I’m currently learning something new 😇
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
-- ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
 - ### ⚡ I love to talk on trending technology 📱
   
 <br />
