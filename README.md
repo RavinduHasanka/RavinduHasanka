@@ -44,14 +44,14 @@
 
 <br />
 
-🚀 Frameworks...
+## 🚀 Frameworks...
 
 <p align="center">
   
  <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
- <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">    
+<!--  <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     -->
  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
- <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
+<!--  <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px"> -->
  <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 
 </p>
