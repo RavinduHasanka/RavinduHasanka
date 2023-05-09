@@ -44,15 +44,15 @@
 
 <br />
 
-<!--## 🚀 Frameworks...
+🚀 Frameworks...
 
 <p align="center">
   
- <!-- <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">-->
- <!-- <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">-->    
- <!-- <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">-->
- <!-- <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">-->
+ <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
+ <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">    
+ <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+ <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
+ <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 
 </p>
 
@@ -93,7 +93,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/RavinduHasanka/RavinduHasanka/issues/new"><b>here</b></a><br>
-or <a href="mailto:it19156798@my.sliit.lk.com"><b>email</b></a> me.
+or <a href="mailto:ravinduhasanka@gmail.com"><b>email</b></a> me.
 
 ## <i>Happy Coding!</i>
 
