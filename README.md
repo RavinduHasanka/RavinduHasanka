@@ -15,7 +15,7 @@
  </p>
 
 <div align="center">
-<h3>🎓 Information Technology Sraduated at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
+<h3>🎓 Information Technology Graduated at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
 <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/giphy.gif" />
